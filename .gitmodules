@@ -1,0 +1,21 @@
+[submodule "external/documentation"]
+	path = external/documentation
+	url = git@github.com:mtulio/documentation.git
+[submodule "external/noobs"]
+	path = external/noobs
+	url = git@github.com:mtulio/noobs.git
+[submodule "external/target_fs"]
+	path = external/target_fs
+	url = git@github.com:mtulio/target_fs.git
+[submodule "external/firmware"]
+	path = external/firmware
+	url = git@github.com:mtulio/firmware.git
+[submodule "external/linux"]
+	path = external/linux
+	url = git@github.com:mtulio/linux.git
+[submodule "external/tools"]
+	path = external/tools
+	url = git@github.com:mtulio/tools.git
+[submodule "external/userland"]
+	path = external/userland
+	url = git@github.com:mtulio/userland.git
